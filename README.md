@@ -27,4 +27,6 @@
   </a> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larfri&" alt="larfri" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larfri&theme=dark" alt="larfri" />
+</p>
